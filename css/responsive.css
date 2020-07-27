@@ -1,0 +1,177 @@
+@media only screen and (max-width : 480px) {
+	#demo{padding:20px 4px 35px !important;}
+	.shadow{bottom:24px !important;}
+	.carousel-caption{margin:0 !important; padding:0 !important;     top: 33% !important; right: 15% !important;}
+	.captionWrap h3{font-size:14px; margin:0; padding:0;}
+	.captionWrap p{font-size:10px;}
+	.bannerWrap{background:url(../images/ejyotish-banner.jpg) no-repeat center center; width:100%; height:150px !important; background-size: 200% 150px !important; margin-top:80px !important; }
+        .buddywo .bannerWrap{background:url(../images/buddywo-banner.jpg) no-repeat center center; width:100%; height:150px !important; background-size: 200% 150px !important; margin-top:80px !important; }
+	.webPortal .orange, .webPortal .cream{margin:0;}
+
+}
+
+
+@media only screen and (max-width : 768px) {
+	#demo{padding:20px 4px 45px;}
+	.shadow{bottom:25px;}
+	.carousel-indicators{bottom:0 !important;}
+	.carousel-indicators li.active{width:10px !important; height:10px !important; border:3px solid #ec3237 !important;}
+	.carousel-indicators li{width:10px !important; height:10px !important; border:3px solid #fff !important;}
+	.topHead{display:none;}
+	#mainNav{top:0;}
+	.navbar .container{margin:0 12px;}
+	.navbar-brand img{width:73px;}
+	#home{padding-top:90px;}
+	.nopadding{padding:0 12px !important;}
+	.emptyWrap h2{color:#000; margin-top:90px;}
+	.scrollBar{padding:0;}
+	.scrollBar p{padding:0;}
+	.emptyWrap .col-lg-5, .emptyWrap .col-lg-7{margin-top: -75px;}
+	.wordNum{text-align:right;}
+	.navbar-toggler{background:#eee !important; border-radius: 4px; height: 50px; width: 60px;}
+	.navbar-toggler .navbar-toggler-icon{background:url(../images/nav-toggle.jpg) no-repeat center center;}
+	.whyusBg{background:#ede3dd !important;}
+	.videoWrap .text-center img{width:45px;}
+	.videoWrap .text-center .playText{font-size:14px;}
+	#video .videoWrap .playVideo{top:25% !important; left:40% !important;}
+	#whoweare .whoImgWrap{width:105%; margin:0; position:relative;}
+	#whoweare .productWrap{padding:12px;}
+	#whoweare .proSection h2{border:0; border-bottom:1px solid #cecfd3;}
+	#whatwedo .pillarsHead .plllarsTitle{margin:0;}
+	#whatwedo .pillarInfo{margin:12px 0;}
+	#whatwedo .pillarInfo p{height:auto;}
+	#services .starGroup{left: 40%;}
+	#services .serEjyotish{padding-top:35px; margin:0;}
+	.nopadding-left {padding-left:15px !important;}
+	.nopadding-right{padding-right:15px !important;}
+	#contactus .conWrap{height:480px;}
+	#contactus .conWrap .locIconWrap{top: 40%;}
+	#contactus .conWrap .conInWrap{margin: 0px 15px 15px 30px;}
+	#contactus .googleMap{margin:0;}
+	.bannerWrap{margin-top:80px;}
+	.bannerWrap img{max-width: 200%; margin-left:-180px; display:none;}
+	.bannerWrap{background:url(../images/ejyotish-banner.jpg) no-repeat center center; width:100%; height:240px; background-size: 200% 240px; margin-top:80px; }
+    .buddywo .bannerWrap{background:url(../images/buddywo-banner.jpg) no-repeat center center; width:100%; height:240px; background-size: 200% 240px; margin-top:80px; }
+	.ui-ux .bannerWrap{background:url(../images/starboard-ui-ux-design-development.jpg) no-repeat center center; width:100%; height:240px; background-size: 200% 240px; margin-top:80px; }
+	.digital .bannerWrap{background:url(../images/starboard-digital-marketing.jpg) no-repeat center center; width:100%; height:240px; background-size: 200% 240px; margin-top:80px; }
+	.graphic .bannerWrap{background:url(../images/starboard-mobile-graphic-design.jpg) no-repeat center center; width:100%; height:240px; background-size: 200% 240px; margin-top:80px; }
+	.software .bannerWrap{background:url(../images/starboard-software-development.jpg) no-repeat center center; width:100%; height:240px; background-size: 200% 240px; margin-top:80px; }
+	.headTitle{font-size:22px; margin-top: 45px;}
+	.whyIsContent{margin:0; padding:24px;}
+	.webPortal .cream{margin-bottom:15px;}
+	.panelWrap .whiteBg{margin-bottom:15px; height:auto;}
+	.dark-bg .whiteBg .headTitle{font-size: 22px; line-height: 26px; padding-left: 26px; padding-top: 20px;}
+	.dark-bg{padding: 18px;}
+	.dark-bg .whiteBg .redLine{margin-left: 27px;}
+	.aniSection .sectionTitle h2{padding-top: 10% !important;}
+	
+	
+}
+@media only screen and (max-width : 480px) {
+	.aniSection .sectionTitle h2{padding-top: 18% !important;}	
+}
+@media only screen and (min-width : 768px) and (max-width : 980px){
+	#services .serBuddywo{padding-bottom:56px !important;}
+	#contactus .googleMap{margin-top: 65px;}
+	#contactus .googleMap iframe{height:480px;}
+	#contactus .nopadding-right, #contactus .nopadding-left{padding:0 !important;}
+	.emptyWrap .imgWrap img{width:100% !important;}
+	#video .videoWrap .playVideo{top: 40% !important; left: 45% !important;}
+}
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+	#demo{padding:20px 4px 45px;}
+	.shadow{bottom:12px;}
+	.carousel-indicators{bottom:0 !important;}
+	#whoweare .proSection h2{font-size:14px;}
+	#whatwedo .techWrap .techIcon .circle{width: 200px; height: 200px; left: -24px;}
+	#whatwedo .techWrap .techIcon{width:150px;}
+	#services .serBuddywo{padding-bottom:18px;}
+	#services .col-md-6{padding:0 !important;}
+}
+@media only screen and (min-width : 1024px) and (max-width : 1200px) {
+	
+}
+@media only screen and (min-width : 1024px) and (max-width : 1440px) {
+	.shadow{bottom:15px;}
+	
+}
+
+@media only screen and (min-width : 1824px) {
+.carousel-caption{right:10% !important;}
+.captionWrap h3{font-size:36px;}
+}
+
+
+/* New Media Tags */
+
+@media only screen and (max-width:320px){
+	
+}
+
+@media only screen 
+and (min-width:320px)
+and (max-width:480px)
+{
+
+}
+
+@media only screen and (max-width:768px){
+
+}
+
+@media only screen 
+and (min-width:768px)
+and (max-width:980px)
+{
+
+}
+
+@media only screen and (max-width:980px){
+
+}
+
+@media only screen 
+and (min-width:768px)
+and (max-width:1024px)
+{
+
+}
+
+
+@media only screen 
+and (min-width:980px)
+and (max-width:1024px)
+{
+	#whatwedo .techWrap .footer h3{font-size:14px; line-height: 20px; padding: 0px 10px;}
+}
+
+
+@media only screen 
+and (min-width:1025px)
+and (max-width:1224px)
+{
+
+}
+
+@media only screen 
+and (min-width:1024px)
+and (max-width:1440px)
+{
+	.whyusBg{background: url(../images/why_people_choose_us.gif) no-repeat bottom right -35px #ede3dd; background-size: 45%;}
+	#whatwedo .techWrap .footer h3{font-size:14px;}
+}
+
+@media only screen 
+and (min-width:1824px)
+{
+
+}
+
+@media only screen 
+and (min-width:1920px){
+
+}
+
+
+
+
